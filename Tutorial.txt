@@ -13,3 +13,12 @@ in case, if you haven't connected your account
 git remote add origin https://github.com/manhtuanppa/TestGit.git
 git log //checking connection
 
+/////////////Branch
+git branch namebranch  //create a new branch
+git checkout
+git merge
+
+
+///////////Advace
+git rebase
+git chery-pick
