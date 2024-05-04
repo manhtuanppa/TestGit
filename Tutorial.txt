@@ -14,8 +14,9 @@ git remote add origin https://github.com/manhtuanppa/TestGit.git
 git log //checking connection
 
 /////////////Branch
+git branch // check all branch
 git branch namebranch  //create a new branch
-git checkout
+git checkout namebranch   // changes will be updated in new branch
 git merge
 
 
