@@ -1,1 +1,15 @@
-abc
+git init // Create
+git status // check the status of any new file
+
+git add FileName // Add to localhost a file
+git Add . // Add all
+
+git commit -m "write comment here" // Commit
+git push //push to the server
+
+
+
+in case, if you haven't connected your account
+git remote add origin https://github.com/manhtuanppa/TestGit.git
+git log //checking connection
+
