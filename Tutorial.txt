@@ -16,10 +16,18 @@ git log //checking connection
 /////////////Branch
 git branch // check all branch
 git branch namebranch  //create a new branch
+$ git branch -M branch_mane (main) // Reanme a branch
 git checkout namebranch   // changes will be updated in new branch
-git merge
+git checkout -b namebranch   // switch to other branch
+$ git branch -d branch_mane // remove a branch
+
+
+git merge namebranch
 
 
 ///////////Advace
 git rebase
 git chery-pick
+
+///////////Clone
+$ git clone <url>
